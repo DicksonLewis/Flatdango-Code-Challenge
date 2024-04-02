@@ -15,6 +15,7 @@
     });
   });
   
+  //commented out this optional list because i created my own movie list and poster
   // //movie menu display and user interactivity
   // document.addEventListener("DOMContentLoaded", function() {
   //   const filmsList = document.getElementById('films');
